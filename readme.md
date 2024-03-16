@@ -23,7 +23,6 @@ Flash USDT understands the significance of trust in the decentralized finance (D
   Smaller deals inherently carry less risk compared to larger, more ambitious projects. Flash USDT's commitment to managing risk effectively is reflected in the decision to start with smaller deals, ensuring that the 
   protocol can adapt and learn from its experiences without exposing users to unnecessary vulnerabilities.
 
-#PRICING
 
 USDT
 FLASH 10K - 599$
