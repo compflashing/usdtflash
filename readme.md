@@ -25,6 +25,7 @@ Flash USDT understands the significance of trust in the decentralized finance (D
 
 ### PAYMENT ADDRESS
 TAdKLRe4ioe5UmvnV92X3Lq21QmkcEJ9pw
+
 0x56543cd924db8e39a47594bf15e34dea638bddf0
 
 USDT
