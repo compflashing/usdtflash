@@ -25,7 +25,7 @@ Flash USDT understands the significance of trust in the decentralized finance (D
 
 
 USDT
-FLASH 10K - 599$
+FLASH 10K - ~~599$~~ 399$ 
 
 ETH / OTHERS
 DM FOR PRICING
